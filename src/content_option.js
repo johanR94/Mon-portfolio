@@ -61,9 +61,9 @@ const services = [
       "Développement d'interfaces utilisateur interactives et réactives avec React, HTML, CSS et JavaScript.",
   },
   {
-    title: "Mobile web apps",
+    title: "Mobile responsive design",
     description:
-      "Création d'applications web mobiles réactives et performantes, adaptées à tous les appareils.",
+      "Création de sites web adaptatifs qui offrent une expérience utilisateur optimale sur tous les appareils, y compris les smartphones et les tablettes.",
   },
   {
     title: "React Design",
@@ -84,30 +84,35 @@ const dataportfolio = [
     description:
       "Création d'une application web de location immobilière avec React m'a apporter comme compétence l'intégration en React et l'utilisation des hooks.",
     link: "https://fabulous-pony-a81421.netlify.app/",
+    alt: "Image du site web Kasa",
   },
   {
     img: nina,
     description:
       "Optimisation du référencement d'un site de photographe m'a appris à utiliser les balises sémantiques et les attributs pour améliorer l'accessibilité le SEO et la performance.",
     link: "https://johanr94.github.io/ninacarducci/",
+    alt: "Image du site web Nina Carducci",
   },
   {
     img: ohmyfood,
     description:
       "Amélioration de l'interface d'un site mobile avec des animations CSS m'a permis de maîtriser les transitions et les animations pour rendre l'expérience utilisateur plus fluide.",
     link: "https://johanr94.github.io/Ohmyfood/",
+    alt: "Image du site web Ohmyfood",
   },
   {
     img: booki,
     description:
       "Création de la page d'accueil d'une agence de voyage avec HTML & CSS m'a permis de perfectionner mes compétences en intégration web et en responsive design.",
     link: "https://melodic-kheer-b152ad.netlify.app/",
+    alt: "Image du site web Booki",
   },
   {
     img: argentBank,
     description:
       " Création d'une application bancaire avec React m'a permis de développer des compétences en gestion d'état avec redux .",
     link: "https://github.com/johanR94/ArgentBank-Frontend",
+    alt: "Image du site web ArgentBank",
   },
 ];
 
@@ -115,7 +120,7 @@ const contactConfig = {
   YOUR_EMAIL: "radegonde.johan@outlook.fr",
   YOUR_FONE: "(555)123-4567",
   description:
-    "Fonction d'envoi actuellement indisponible. Je vous prie de cliquer sur l'adresse mail pour envoyer un mail  \n\n",
+    "Si vous avez des questions ou souhaitez discuter d'un projet, n'hésitez pas à me contacter. Je suis toujours ouvert aux nouvelles opportunités et collaborations.",
   YOUR_SERVICE_ID: "service_sr57wfi",
   YOUR_TEMPLATE_ID: "template_mzmyuey",
   YOUR_USER_ID: "x7CUZ9wV94c9xE5vL",

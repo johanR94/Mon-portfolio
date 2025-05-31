@@ -165,7 +165,7 @@ export const ContactUs = () => {
               <Row>
                 <Col lg="12" className="form-group">
                   <button className="btn ac_btn" type="submit">
-                    {formData.loading ? "Sending..." : "Send"}
+                    {formData.loading ? "Envoi en cours..." : "Envoyer "}
                   </button>
                 </Col>
               </Row>

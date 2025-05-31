@@ -20,19 +20,6 @@ export const Portfolio = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
-        {/* <div className="mb-5 po_items_ho">
-          {dataportfolio.map((data, i) => {
-            return (
-              <div key={i} className="po_item">
-                <img src={data.img} alt="" className="align_item_center" />
-                <div className="content">
-                  <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
-                </div>
-              </div>
-            );
-          })}
-        </div> */}
 
         <Row className="mb-5 po_items_ho justify-content-center">
           {dataportfolio.map((data, i) => (
@@ -45,7 +32,7 @@ export const Portfolio = () => {
               className="mb-4 portfolio-col"
             >
               <div className="po_item">
-                <img src={data.img} alt="" className="po_img" />
+                <img src={data.img} alt={data.alt} className="po_img" />
                 <div className="content">
                   <p>{data.description}</p>
                   <a href={data.link}>view project</a>
