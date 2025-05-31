@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/johanR94/Mon-portfolio/static/css/main.596a0926.css",
-    "main.js": "/johanR94/Mon-portfolio/static/js/main.ccc78136.js",
-    "static/media/ninaCarducci.png": "/johanR94/Mon-portfolio/static/media/ninaCarducci.64f24b521b13a6ef2b71.png",
-    "static/media/kasa.png": "/johanR94/Mon-portfolio/static/media/kasa.347983548d50fbcd1abe.png",
-    "static/media/ohmyfood.png": "/johanR94/Mon-portfolio/static/media/ohmyfood.3e29489bb224e8f48280.png",
-    "static/media/Booki.png": "/johanR94/Mon-portfolio/static/media/Booki.de148e69e78d7b9733eb.png",
-    "static/media/argentBank.png": "/johanR94/Mon-portfolio/static/media/argentBank.08ee7fdbcac08d8e8c6e.png",
-    "index.html": "/johanR94/Mon-portfolio/index.html"
+    "main.css": "/Mon-portfolio/static/css/main.596a0926.css",
+    "main.js": "/Mon-portfolio/static/js/main.e105545a.js",
+    "static/media/ninaCarducci.png": "/Mon-portfolio/static/media/ninaCarducci.64f24b521b13a6ef2b71.png",
+    "static/media/kasa.png": "/Mon-portfolio/static/media/kasa.347983548d50fbcd1abe.png",
+    "static/media/ohmyfood.png": "/Mon-portfolio/static/media/ohmyfood.3e29489bb224e8f48280.png",
+    "static/media/Booki.png": "/Mon-portfolio/static/media/Booki.de148e69e78d7b9733eb.png",
+    "static/media/argentBank.png": "/Mon-portfolio/static/media/argentBank.08ee7fdbcac08d8e8c6e.png",
+    "index.html": "/Mon-portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.596a0926.css",
-    "static/js/main.ccc78136.js"
+    "static/js/main.e105545a.js"
   ]
 }
