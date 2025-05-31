@@ -112,15 +112,13 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: " radegonde.johan@outlook.fr",
+  YOUR_EMAIL: "radegonde.johan@outlook.fr",
   YOUR_FONE: "(555)123-4567",
   description:
     "Fonction d'envoi actuellement indisponible. Je vous prie de cliquer sur l'adresse mail pour envoyer un mail  \n\n",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_sr57wfi",
+  YOUR_TEMPLATE_ID: "template_mzmyuey",
+  YOUR_USER_ID: "x7CUZ9wV94c9xE5vL",
 };
 
 const socialprofils = {
