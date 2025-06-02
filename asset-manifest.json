@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mon-portfolio/static/css/main.596a0926.css",
+    "main.css": "/Mon-portfolio/static/css/main.22ff6173.css",
     "main.js": "/Mon-portfolio/static/js/main.e105545a.js",
     "static/media/ninaCarducci.png": "/Mon-portfolio/static/media/ninaCarducci.64f24b521b13a6ef2b71.png",
     "static/media/kasa.png": "/Mon-portfolio/static/media/kasa.347983548d50fbcd1abe.png",
@@ -10,7 +10,7 @@
     "index.html": "/Mon-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.596a0926.css",
+    "static/css/main.22ff6173.css",
     "static/js/main.e105545a.js"
   ]
 }
