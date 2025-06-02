@@ -29,7 +29,7 @@
 
 .progress .progress-bar {
     position: relative;
-    background: blue;
+    background: var(--var-bar-progress);;
     animation: animate-positive 2s;
     overflow: visible;
     opacity: 0.9;
